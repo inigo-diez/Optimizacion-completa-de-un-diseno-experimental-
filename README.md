@@ -2,7 +2,7 @@
 
 Este repositorio recoge el análisis completo de un experimento de tipo Diseño Central Compuesto (CCD) orientado a optimizar las condiciones de extracción por microextracción en fase sólida (SPME) acoplada a cromatografía de gases-espectrometría de masas (GC-MS) para el estudio del metaboloma fecal. El objetivo principal fue identificar qué combinación de tiempos de extracción, desorción e incubación maximiza la detección e intensidad de metabolitos de interés clínico, con especial atención a los compuestos asociados al eje microbiota-cerebro.
 
-**Datos no corresponden a pacientes o controles, son propios.**
+**Datos no correspondientes a pacientes o controles, son propios.**
 
 ---
 
